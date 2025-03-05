@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <title> Practical 3</title>
+        <h1 align="center">SEC F Timetable</h1>
+    </head>
+    <body>
+       <table border ="1" align="center" style="border : solid black">
+        <tr>
+            <th> day-time</th>
+            <th> 10:30 to 11:30</th>
+            <th> 11:30 to 12:30</th>
+            <th> 12:30 to 1:30</th>
+            <th> 1:30 to 2:30</th>
+            <th> 2:30 to 3:30</th>
+            <th> 3:30 to 4:30</th>
+            <th> 4:30 to 5:30</th>
+        </tr>
+        <tr>
+            <th>Monday</th><br>
+            <td align="center">ICLA</td>
+            <td align="center">AP</td>
+            <td align="center">Forum</td>
+            <th align="center" rowspan="6">B<br>r<br>e<br>a<br>k</th>
+            <td align="center">T.G.Hour</td>
+            <td align="center" colspan="2">ACPL</td>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <td align="center">AP</td>
+            <td align="center"colspan="2">WD</td>
+            <td align="center">ICLA</td>
+            <td align="center"colspan = "2">LLC-1</td>
+        </tr>
+        <tr>
+            <th>Wednesday</th>
+            <td align="center">ACP</td>
+            <td align="center"colspan="2">APL</td>
+            <td align="center"> Tutorial</td>
+            <td align="center"colspan="2">WD</td>
+
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <td align="center">IKS</td>
+            <td align="center"colspan="2">EGD</td>
+            <td align="center">tutorial</td>
+            <td align="center"colspan="2">APL</td>
+        </tr>
+        <tr>
+            <th>Friday</th>
+            <td align="center"colspan="2">EGDL</td>
+            <td align="center">self learning</td>
+            <td align="center" >ACP</td>
+            <td align="center">IKS</td>
+            <td align="center">Sports</td>
+        </tr>
+        <tr>
+            <th>Saturday</th>
+            <td align="center"colspan="2">EGDL</td>
+            <td align="center">ICLA</td>
+            <td align="center">LLC-1</td>
+            <td align="center"colspan="2">Makeup class</td>
+        </tr>
+       </table> 
+    </body>
+</html>
